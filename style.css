@@ -1,0 +1,46 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+h3{
+  margin-bottom: 2rem;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+}
+
+.btn{
+  width: 120px;
+  height: 120px;
+  border-radius: 1.6rem;
+  border: 3px solid rgb(5, 5, 5);
+  margin: 8px;
+}
+
+.green{
+  background-color: #16a565;
+}
+
+.red{
+  background-color: #ce5151;
+}
+
+.yellow{
+  background-color: #cddb2f;
+}
+
+.purple{
+  background-color: #8870de;
+}
+
+.flash{
+  background-color: white;
+}
+
+.userFlash{
+    background-color: grey;
+}
+  
